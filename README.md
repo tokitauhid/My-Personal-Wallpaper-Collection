@@ -26,8 +26,8 @@
 
 | | | |
 |:---:|:---:|:---:|
-| ![](Nature%20%26%20Landscapes/Mountain/a_snowy_mountain_range_with_sun_shining_on_it.jpg) | ![](Nature%20%26%20Landscapes/Flowers/a_bouquet_of_flowers_on_a_black_background.jpg) | ![](Nature%20%26%20Landscapes/Mountain/a_mountain_range_with_trees_and_a_valley.jpg) |
-| *Mountain* | *Flowers* | *Mountain* |
+| ![](Nature%20%26%20Landscapes/Aerial/a_blue_and_white_water.jpg) | ![](Nature%20%26%20Landscapes/Fauna/a_cartoon_of_a_sea_creature.png) | ![](Nature%20%26%20Landscapes/Wave/a_plant_in_front_of_a_window.png) |
+| *Aerial* | *Fauna* | *Wave* |
 
 **Subcategories:** `Aerial` · `Cherry` · `Fauna` · `Flowers` · `Fogsmoke` · `Mountain` · `Nature` · `Wave`
 
@@ -39,8 +39,8 @@
 
 | | | |
 |:---:|:---:|:---:|
-| ![](Anime%20%26%20Manga/Anime/a_cartoon_of_a_girl_sitting_on_a_porch_in_the_rain.png) | ![](Anime%20%26%20Manga/Anime/a_cartoon_of_a_girl_playing_a_guitar.jpg) | ![](Anime%20%26%20Manga/Anime/a_cartoon_of_a_castle.png) |
-| *Anime* | *Anime* | *Anime* |
+| ![](Anime%20%26%20Manga/Anime/a_cartoon_of_a_woman_with_her_hands_on_her_face.jpg) | ![](Anime%20%26%20Manga/Evangelion/a_blue_yin_yang_symbol.jpg) | ![](Anime%20%26%20Manga/Manga/a_screenshot_of_a_video_game.jpeg) |
+| *Anime* | *Evangelion* | *Manga* |
 
 **Subcategories:** `Anime` · `Boccha` · `Evangelion` · `Girl` · `Manga`
 
@@ -52,8 +52,8 @@
 
 | | | |
 |:---:|:---:|:---:|
-| ![](Catppuccin/Mocha/asian-village.png) | ![](Catppuccin/Mocha/cabin.png) | ![](Catppuccin/Mocha/sakura-gate.jpg) |
-| *Mocha* | *Mocha* | *Mocha* |
+| ![](Catppuccin/Mocha/pixel-castle.png) | ![](Catppuccin/Gradients/red_bkg5.png) | ![](Catppuccin/Waves/Waves%20Dark%206016x6016.jpg) |
+| *Mocha* | *Gradients* | *Waves* |
 
 **Subcategories:** `Dithered` · `Flatppuccin` · `Gradients` · `Landscapes` · `Mandelbrot` · `Minimalistic` · `Misc` · `Mocha` · `OS` · `Patterns` · `Solids` · `Waves`
 
@@ -65,8 +65,8 @@
 
 | | | |
 |:---:|:---:|:---:|
-| ![](Urban%20%26%20Architecture/Architecture/a_narrow_street_with_shops_and_signs.png) | ![](Urban%20%26%20Architecture/Architecture/a_colorful_buildings_on_a_cliff_by_the_water.jpg) | ![](Urban%20%26%20Architecture/Architecture/a_city_at_night_with_lights.jpg) |
-| *Architecture* | *Architecture* | *Architecture* |
+| ![](Urban%20%26%20Architecture/Architecture/a_building_with_many_windows_02.jpg) | ![](Urban%20%26%20Architecture/Decay/a_plane_on_the_ground.jpg) | ![](Urban%20%26%20Architecture/Interior/a_table_with_a_vase_of_fruit_and_a_pitcher_of_water.jpg) |
+| *Architecture* | *Decay* | *Interior* |
 
 **Subcategories:** `Architecture` · `Decay` · `Industrial` · `Interior`
 
@@ -78,8 +78,8 @@
 
 | | | |
 |:---:|:---:|:---:|
-| ![](Abstract%20%26%20Minimalist/Abstract/a_colorful_swirls_of_paint.jpg) | ![](Abstract%20%26%20Minimalist/Abstract/a_blue_and_orange_background.jpg) | ![](Abstract%20%26%20Minimalist/Abstract/a_black_and_white_picture_of_mountains_and_trees.png) |
-| *Abstract* | *Abstract* | *Abstract* |
+| ![](Abstract%20%26%20Minimalist/Abstract/a_man_and_woman_eating_food.jpg) | ![](Abstract%20%26%20Minimalist/Geometry/a_black_and_white_logo.jpg) | ![](Abstract%20%26%20Minimalist/Minimal/a_blue_rectangular_object_with_a_black_background.jpg) |
+| *Abstract* | *Geometry* | *Minimal* |
 
 **Subcategories:** `Abstract` · `Centered` · `Devicons` · `Geometry` · `Lightbulb` · `Logo` · `Minimal` · `Monochrome` · `Poly` · `Tile`
 
@@ -91,8 +91,8 @@
 
 | | | |
 |:---:|:---:|:---:|
-| ![](Color%20Themes/Nord/a_blue_and_grey_background.png) | ![](Color%20Themes/Nord/a_large_waterfall_with_snow_and_ice.jpg) | ![](Color%20Themes/Nord/cherry-blossoms.png) |
-| *Nord* | *Nord* | *Nord* |
+| ![](Color%20Themes/Nord/a_close_up_of_a_rose.png) | ![](Color%20Themes/Gruvbox/a_pile_of_wood_with_snow_on_top.jpg) | ![](Color%20Themes/Solarized/a_planet_in_the_sky.jpg) |
+| *Nord* | *Gruvbox* | *Solarized* |
 
 **Subcategories:** `Basalt` · `Gruvbox` · `Nord` · `Radium` · `Solarized`
 
@@ -104,8 +104,8 @@
 
 | | | |
 |:---:|:---:|:---:|
-| ![](Digital%20Art%20%26%20Cyberpunk/Outrun/a_city_skyline_with_a_sunset_in_the_background.png) | ![](Digital%20Art%20%26%20Cyberpunk/Outrun/a_sports_car_with_neon_lights.png) | ![](Digital%20Art%20%26%20Cyberpunk/Outrun/a_street_with_buildings_and_signs.png) |
-| *Outrun* | *Outrun* | *Outrun* |
+| ![](Digital%20Art%20%26%20Cyberpunk/Outrun/a_city_skyline_with_a_sunset_in_the_background.png) | ![](Digital%20Art%20%26%20Cyberpunk/Pixel/a_computer_room_with_a_desk_and_a_computer_monitor.jpg) | ![](Digital%20Art%20%26%20Cyberpunk/Retro/a_logo_with_a_rainbow_colored_design.png) |
+| *Outrun* | *Pixel* | *Retro* |
 
 **Subcategories:** `Apeiros` · `Apocalypse` · `Digital` · `Dreamcore` · `Jackb` · `M-26.jp` · `Outrun` · `Pixel` · `Retro` · `Stalenhag` · `Weirdcore`
 
@@ -117,8 +117,8 @@
 
 | | | |
 |:---:|:---:|:---:|
-| ![](Mood%20%26%20Atmosphere/Calm/a_boat_on_the_water.jpg) | ![](Mood%20%26%20Atmosphere/Calm/a_house_on_stilts_on_a_lake.jpg) | ![](Mood%20%26%20Atmosphere/Calm/a_road_leading_to_mountains.jpg) |
-| *Calm* | *Calm* | *Calm* |
+| ![](Mood%20%26%20Atmosphere/Calm/a_large_waterfall_with_fog_and_trees.jpg) | ![](Mood%20%26%20Atmosphere/Chillop/a_blue_background_with_cartoon_characters.jpg) | ![](Mood%20%26%20Atmosphere/Cold/a_black_sand_beach_with_waves_and_clouds_above.jpg) |
+| *Calm* | *Chillop* | *Cold* |
 
 **Subcategories:** `Calm` · `Chillop` · `Cold`
 
