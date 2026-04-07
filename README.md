@@ -16,6 +16,22 @@ _Wallpapers spanning nature, anime, architecture, abstract art, color-graded the
 
 <br>
 
+## ⚡ 30-Second Tour
+
+- Jump into [Nature & Landscapes](#-nature--landscapes) for scenic backgrounds.
+- Check [Color Themes](#-color-themes) and [Catppuccin](#-catppuccin) for setup-matching palettes.
+- Use [Quick Start](#-quick-start) for ready-to-run Linux wallpaper commands.
+- Browse the complete structure in [Full Directory Structure](#-full-directory-structure).
+
+## ✨ Featured Picks
+
+| | | |
+|:---:|:---:|:---:|
+| ![](Nature%20%26%20Landscapes/Mountain/a_snowy_mountain_range_with_sun_shining_on_it.jpg) | ![](Color%20Themes/Nord/cherry-blossoms.png) | ![](Digital%20Art%20%26%20Cyberpunk/Outrun/a_city_skyline_with_a_sunset_in_the_background.png) |
+| *Nature / Mountain* | *Color Themes / Nord* | *Digital Art / Outrun* |
+
+<br>
+
 ## 📂 Categories At A Glance
 
 <br>
@@ -128,6 +144,8 @@ _Wallpapers spanning nature, anime, architecture, abstract art, color-graded the
 
 > Looping video wallpapers (`.mp4`) for live desktop backgrounds.
 
+**Subcategories:** — *(Single folder for animated wallpapers)*
+
 ---
 
 ### 📁 Other
@@ -139,6 +157,11 @@ _Wallpapers spanning nature, anime, architecture, abstract art, color-graded the
 <br>
 
 ## 🗂️ Full Directory Structure
+
+<details>
+<summary>Expand full folder tree</summary>
+
+<br>
 
 ```
 📦 My Personal Wallpaper Collection
@@ -227,6 +250,8 @@ _Wallpapers spanning nature, anime, architecture, abstract art, color-graded the
     └── Interior/          # Beautiful room & interior design
 ```
 
+</details>
+
 <br>
 
 ## 🚀 Quick Start
@@ -234,7 +259,7 @@ _Wallpapers spanning nature, anime, architecture, abstract art, color-graded the
 **Clone the collection:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/my-wallpaper-collection.git
+git clone https://github.com/tokitauhid/My-Personal-Wallpaper-Collection.git
 ```
 
 **Set a wallpaper (Linux with `feh`):**
