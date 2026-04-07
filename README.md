@@ -10,7 +10,7 @@
 
 ---
 
-*Wallpapers spanning nature, anime, architecture, abstract art, color-graded themes, and much more — all hand-picked and organized for easy browsing.*
+_Wallpapers spanning nature, anime, architecture, abstract art, color-graded themes, and much more — all hand-picked and organized for easy browsing._
 
 </div>
 
@@ -24,10 +24,10 @@
 
 > Forests, mountains, oceans, flowers, wildlife, and aerial photography.
 
-| | | |
-|:---:|:---:|:---:|
+|                                                                  |                                                                      |                                                                      |
+| :--------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------: |
 | ![](Nature%20%26%20Landscapes/Aerial/a_blue_and_white_water.jpg) | ![](Nature%20%26%20Landscapes/Fauna/a_cartoon_of_a_sea_creature.png) | ![](Nature%20%26%20Landscapes/Wave/a_plant_in_front_of_a_window.png) |
-| *Aerial* | *Fauna* | *Wave* |
+|                             _Aerial_                             |                               _Fauna_                                |                                _Wave_                                |
 
 **Subcategories:** `Aerial` · `Cherry` · `Fauna` · `Flowers` · `Fogsmoke` · `Mountain` · `Nature` · `Wave`
 
@@ -37,10 +37,10 @@
 
 > Japanese animation and manga-inspired artwork.
 
-| | | |
-|:---:|:---:|:---:|
+|                                                                                    |                                                                |                                                                  |
+| :--------------------------------------------------------------------------------: | :------------------------------------------------------------: | :--------------------------------------------------------------: |
 | ![](Anime%20%26%20Manga/Anime/a_cartoon_of_a_woman_with_her_hands_on_her_face.jpg) | ![](Anime%20%26%20Manga/Evangelion/a_blue_yin_yang_symbol.jpg) | ![](Anime%20%26%20Manga/Manga/a_screenshot_of_a_video_game.jpeg) |
-| *Anime* | *Evangelion* | *Manga* |
+|                                      _Anime_                                       |                          _Evangelion_                          |                             _Manga_                              |
 
 **Subcategories:** `Anime` · `Boccha` · `Evangelion` · `Girl` · `Manga`
 
@@ -50,10 +50,10 @@
 
 > Wallpapers styled with the beloved [Catppuccin](https://github.com/catppuccin) color palette.
 
-| | | |
-|:---:|:---:|:---:|
+|                                        |                                        |                                                    |
+| :------------------------------------: | :------------------------------------: | :------------------------------------------------: |
 | ![](Catppuccin/Mocha/pixel-castle.png) | ![](Catppuccin/Gradients/red_bkg5.png) | ![](Catppuccin/Waves/Waves%20Dark%206016x6016.jpg) |
-| *Mocha* | *Gradients* | *Waves* |
+|                _Mocha_                 |              _Gradients_               |                      _Waves_                       |
 
 **Subcategories:** `Dithered` · `Flatppuccin` · `Gradients` · `Landscapes` · `Mandelbrot` · `Minimalistic` · `Misc` · `Mocha` · `OS` · `Patterns` · `Solids` · `Waves`
 
@@ -63,10 +63,10 @@
 
 > Buildings, cityscapes, interiors, urban decay, and industrial settings.
 
-| | | |
-|:---:|:---:|:---:|
+|                                                                                  |                                                                 |                                                                                                  |
+| :------------------------------------------------------------------------------: | :-------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
 | ![](Urban%20%26%20Architecture/Architecture/a_building_with_many_windows_02.jpg) | ![](Urban%20%26%20Architecture/Decay/a_plane_on_the_ground.jpg) | ![](Urban%20%26%20Architecture/Interior/a_table_with_a_vase_of_fruit_and_a_pitcher_of_water.jpg) |
-| *Architecture* | *Decay* | *Interior* |
+|                                  _Architecture_                                  |                             _Decay_                             |                                            _Interior_                                            |
 
 **Subcategories:** `Architecture` · `Decay` · `Industrial` · `Interior`
 
@@ -76,10 +76,10 @@
 
 > Clean lines, geometric shapes, minimalist compositions, and abstract art.
 
-| | | |
-|:---:|:---:|:---:|
+|                                                                           |                                                                      |                                                                                                |
+| :-----------------------------------------------------------------------: | :------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
 | ![](Abstract%20%26%20Minimalist/Abstract/a_man_and_woman_eating_food.jpg) | ![](Abstract%20%26%20Minimalist/Geometry/a_black_and_white_logo.jpg) | ![](Abstract%20%26%20Minimalist/Minimal/a_blue_rectangular_object_with_a_black_background.jpg) |
-| *Abstract* | *Geometry* | *Minimal* |
+|                                _Abstract_                                 |                              _Geometry_                              |                                           _Minimal_                                            |
 
 **Subcategories:** `Abstract` · `Centered` · `Devicons` · `Geometry` · `Lightbulb` · `Logo` · `Minimal` · `Monochrome` · `Poly` · `Tile`
 
@@ -89,10 +89,10 @@
 
 > Wallpapers color-graded to match popular terminal & editor themes.
 
-| | | |
-|:---:|:---:|:---:|
+|                                                   |                                                                 |                                                       |
+| :-----------------------------------------------: | :-------------------------------------------------------------: | :---------------------------------------------------: |
 | ![](Color%20Themes/Nord/a_close_up_of_a_rose.png) | ![](Color%20Themes/Gruvbox/a_pile_of_wood_with_snow_on_top.jpg) | ![](Color%20Themes/Solarized/a_planet_in_the_sky.jpg) |
-| *Nord* | *Gruvbox* | *Solarized* |
+|                      _Nord_                       |                            _Gruvbox_                            |                      _Solarized_                      |
 
 **Subcategories:** `Basalt` · `Gruvbox` · `Nord` · `Radium` · `Solarized`
 
@@ -102,10 +102,10 @@
 
 > Cyberpunk aesthetics, pixel art, retro-futurism, and surreal digital art.
 
-| | | |
-|:---:|:---:|:---:|
+|                                                                                                |                                                                                                   |                                                                                     |
+| :--------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
 | ![](Digital%20Art%20%26%20Cyberpunk/Outrun/a_city_skyline_with_a_sunset_in_the_background.png) | ![](Digital%20Art%20%26%20Cyberpunk/Pixel/a_computer_room_with_a_desk_and_a_computer_monitor.jpg) | ![](Digital%20Art%20%26%20Cyberpunk/Retro/a_logo_with_a_rainbow_colored_design.png) |
-| *Outrun* | *Pixel* | *Retro* |
+|                                            _Outrun_                                            |                                              _Pixel_                                              |                                       _Retro_                                       |
 
 **Subcategories:** `Apeiros` · `Apocalypse` · `Digital` · `Dreamcore` · `Jackb` · `M-26.jp` · `Outrun` · `Pixel` · `Retro` · `Stalenhag` · `Weirdcore`
 
@@ -115,10 +115,10 @@
 
 > Atmospheric wallpapers evoking specific moods and feelings.
 
-| | | |
-|:---:|:---:|:---:|
+|                                                                            |                                                                                    |                                                                                      |
+| :------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
 | ![](Mood%20%26%20Atmosphere/Calm/a_large_waterfall_with_fog_and_trees.jpg) | ![](Mood%20%26%20Atmosphere/Chillop/a_blue_background_with_cartoon_characters.jpg) | ![](Mood%20%26%20Atmosphere/Cold/a_black_sand_beach_with_waves_and_clouds_above.jpg) |
-| *Calm* | *Chillop* | *Cold* |
+|                                   _Calm_                                   |                                     _Chillop_                                      |                                        _Cold_                                        |
 
 **Subcategories:** `Calm` · `Chillop` · `Cold`
 
@@ -127,8 +127,6 @@
 ### 🎞️ Animated
 
 > Looping video wallpapers (`.mp4`) for live desktop backgrounds.
-
-**Subcategories:** — *(Single folder for animated wallpapers)*
 
 ---
 
@@ -234,21 +232,25 @@
 ## 🚀 Quick Start
 
 **Clone the collection:**
+
 ```bash
 git clone https://github.com/YOUR_USERNAME/my-wallpaper-collection.git
 ```
 
 **Set a wallpaper (Linux with `feh`):**
+
 ```bash
 feh --bg-fill "Nature & Landscapes/Mountain/a_mountain_with_snow_on_it.jpg"
 ```
 
 **Set a wallpaper (Linux with `swww` for Wayland):**
+
 ```bash
 swww img "Nature & Landscapes/Cherry/a_tree_with_white_flowers.jpg" --transition-type wipe
 ```
 
 **Set an animated wallpaper (using `mpvpaper`):**
+
 ```bash
 mpvpaper '*' "Animated/totoro-in-the-rain-moewalls-com.mp4" -o "loop"
 ```
@@ -259,14 +261,14 @@ mpvpaper '*' "Animated/totoro-in-the-rain-moewalls-com.mp4" -o "loop"
 
 This collection includes wallpapers specifically color-graded for popular development themes:
 
-| Theme | Style | Best For |
-|:------|:------|:---------|
-| **Catppuccin** | Warm pastels, soothing tones | Cozy, modern setups |
-| **Gruvbox** | Retro, earthy warm colors | Vintage terminal vibes |
-| **Nord** | Cool arctic blues | Clean, professional desktops |
-| **Solarized** | Precise, scientifically-designed | Eye-comfort focused setups |
-| **Basalt** | Deep, dark volcanic tones | Ultra-dark themes |
-| **Radium** | Neon glow effects | High-contrast setups |
+| Theme          | Style                            | Best For                     |
+| :------------- | :------------------------------- | :--------------------------- |
+| **Catppuccin** | Warm pastels, soothing tones     | Cozy, modern setups          |
+| **Gruvbox**    | Retro, earthy warm colors        | Vintage terminal vibes       |
+| **Nord**       | Cool arctic blues                | Clean, professional desktops |
+| **Solarized**  | Precise, scientifically-designed | Eye-comfort focused setups   |
+| **Basalt**     | Deep, dark volcanic tones        | Ultra-dark themes            |
+| **Radium**     | Neon glow effects                | High-contrast setups         |
 
 <br>
 
@@ -275,6 +277,7 @@ This collection includes wallpapers specifically color-graded for popular develo
 Found an amazing wallpaper that fits one of the categories? Feel free to open a PR!
 
 **Guidelines:**
+
 - Minimum resolution: **1920×1080**
 - Accepted formats: `JPG`, `PNG`, `WEBP`, `GIF`, `MP4`
 - Place the file in the appropriate category subfolder
@@ -294,6 +297,6 @@ If you are the original creator of any wallpaper included here and would like it
 
 ---
 
-*Curated with ❤️ for beautiful desktops everywhere.*
+_Curated with ❤️ for beautiful desktops everywhere._
 
 </div>
